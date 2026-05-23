@@ -1,0 +1,14 @@
+C:\SocketProgrammingAssignment\SocketServer\bin\Debug\net8.0\SocketServer.exe
+C:\SocketProgrammingAssignment\SocketServer\bin\Debug\net8.0\SocketServer.deps.json
+C:\SocketProgrammingAssignment\SocketServer\bin\Debug\net8.0\SocketServer.runtimeconfig.json
+C:\SocketProgrammingAssignment\SocketServer\bin\Debug\net8.0\SocketServer.dll
+C:\SocketProgrammingAssignment\SocketServer\bin\Debug\net8.0\SocketServer.pdb
+C:\SocketProgrammingAssignment\SocketServer\obj\Debug\net8.0\SocketServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\SocketProgrammingAssignment\SocketServer\obj\Debug\net8.0\SocketServer.AssemblyInfoInputs.cache
+C:\SocketProgrammingAssignment\SocketServer\obj\Debug\net8.0\SocketServer.AssemblyInfo.cs
+C:\SocketProgrammingAssignment\SocketServer\obj\Debug\net8.0\SocketServer.csproj.CoreCompileInputs.cache
+C:\SocketProgrammingAssignment\SocketServer\obj\Debug\net8.0\SocketServer.dll
+C:\SocketProgrammingAssignment\SocketServer\obj\Debug\net8.0\refint\SocketServer.dll
+C:\SocketProgrammingAssignment\SocketServer\obj\Debug\net8.0\SocketServer.pdb
+C:\SocketProgrammingAssignment\SocketServer\obj\Debug\net8.0\SocketServer.genruntimeconfig.cache
+C:\SocketProgrammingAssignment\SocketServer\obj\Debug\net8.0\ref\SocketServer.dll

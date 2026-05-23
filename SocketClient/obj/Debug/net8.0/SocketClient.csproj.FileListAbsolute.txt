@@ -1,0 +1,14 @@
+C:\SocketProgrammingAssignment\SocketClient\bin\Debug\net8.0\SocketClient.exe
+C:\SocketProgrammingAssignment\SocketClient\bin\Debug\net8.0\SocketClient.deps.json
+C:\SocketProgrammingAssignment\SocketClient\bin\Debug\net8.0\SocketClient.runtimeconfig.json
+C:\SocketProgrammingAssignment\SocketClient\bin\Debug\net8.0\SocketClient.dll
+C:\SocketProgrammingAssignment\SocketClient\bin\Debug\net8.0\SocketClient.pdb
+C:\SocketProgrammingAssignment\SocketClient\obj\Debug\net8.0\SocketClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\SocketProgrammingAssignment\SocketClient\obj\Debug\net8.0\SocketClient.AssemblyInfoInputs.cache
+C:\SocketProgrammingAssignment\SocketClient\obj\Debug\net8.0\SocketClient.AssemblyInfo.cs
+C:\SocketProgrammingAssignment\SocketClient\obj\Debug\net8.0\SocketClient.csproj.CoreCompileInputs.cache
+C:\SocketProgrammingAssignment\SocketClient\obj\Debug\net8.0\SocketClient.dll
+C:\SocketProgrammingAssignment\SocketClient\obj\Debug\net8.0\refint\SocketClient.dll
+C:\SocketProgrammingAssignment\SocketClient\obj\Debug\net8.0\SocketClient.pdb
+C:\SocketProgrammingAssignment\SocketClient\obj\Debug\net8.0\SocketClient.genruntimeconfig.cache
+C:\SocketProgrammingAssignment\SocketClient\obj\Debug\net8.0\ref\SocketClient.dll
