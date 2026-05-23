@@ -35,23 +35,6 @@ Technologies Used
 - AES Encryption
 - Async Programming
 
----
-
-Project Structure
-
-SocketProgrammingAssignment
-│
-├── SocketServer
-│   ├── Helpers
-│   ├── Models
-│   ├── Services
-│   └── Program.cs
-│
-├── SocketClient
-│   ├── Helpers
-│   └── Program.cs
-│
-└── README.md
 
 ---
 
